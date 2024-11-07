@@ -1,0 +1,19 @@
+iframe{
+    border-color: crimson;
+    border-radius: 15px;
+    border-width:10px;
+    width:80%;
+    min-height:500px;
+}
+body{
+    background-image:url(../img/novo-logotipo-the-north-face-site.webp);
+    background-size: contain;
+    font-size: 25px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-left: 2cm;
+}
+audio{
+    background-color: crimson;
+    width:80%;
+    border-radius:15px;
+}
